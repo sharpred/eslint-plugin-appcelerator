@@ -20,12 +20,12 @@ $ npm install eslint-plugin-appcelerator --save-dev
 
 ## Usage
 
-Add `appcelerator-environment` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `appcelerator` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "appcelerator-environment"
+        "appcelerator"
     ]
 }
 ```
