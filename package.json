@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-appcelerator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "appcelerator titanium environment globals",
   "keywords": [
     "eslint",
